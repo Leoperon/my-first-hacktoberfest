@@ -65,3 +65,4 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [Harsh](https://github.com/harshgupta28)</br>
 [Leoperon](https://github.com/Leoperon)</br>
 [João Pedro](https://github.com/jpedrinhoxd)</br>
+[Supratim Bhui](https://github.com/supratim1)</br>
